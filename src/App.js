@@ -26,6 +26,7 @@ const App = () => {
       <Character isLoading={isLoading} items={items}/>
     </div>
   )
+  /**/
 }
 
 export default App
